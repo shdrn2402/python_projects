@@ -1,5 +1,6 @@
-# python_projects
-Data analysis and machine learning projects using Python
+### Data analysis and machine learning projects using Python
+
+---
 
 ## The repository contains the following projects:
 | Project link |Project description|
